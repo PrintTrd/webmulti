@@ -60,7 +60,7 @@
 		font-size: 50px !important;
 		color: #fff !important;
 		text-align: center !important;
-		text-shadow: 2px 2px 8px #424242 !important;
+		/* text-shadow: 2px 2px 8px #424242 !important; */
 	  }
 	  
 	.inner .hero-title {
@@ -1921,7 +1921,7 @@
 			}
 
 		.box header h2 {
-			margin-bottom: 2rem;
+			margin-bottom: 1rem;
 		}
 
 		.box header p {
@@ -4108,6 +4108,9 @@
 	}
 	#recolor.banner.half{
 		background-color: #ff7043 !important;
+	}
+	#recolor2.banner.half{
+		background-color: #26baff !important;
 	}
 
 		.banner input, .banner select, .banner textarea {
