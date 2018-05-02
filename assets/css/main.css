@@ -1920,6 +1920,11 @@
 			.box .image.fit img {
 				border-radius: 0;
 			}
+			.box .image.fit:hover img {
+				-moz-box-shadow: 0 0 10px #ccc;
+				-webkit-box-shadow: 0 0 10px #ccc;
+				box-shadow: 0 0 10px #ccc;
+			}
 
 		.box header h2 {
 			margin-bottom: 1rem;
@@ -3686,7 +3691,7 @@
 
 		.gallery .image {
 			background: #FFF;
-			padding: 1rem;
+			padding: 0rem;
 		}
 
 			.gallery .image.fit {
