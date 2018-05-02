@@ -64,6 +64,7 @@
 	  }
 	  
 	.inner .hero-title {
+		text-shadow: 1px 0px 54px #6d6d6d !important;
 		font-family: 'Kanit', sans-serif !important;
 		color: #fff !important;
 		text-transform: uppercase !important;
@@ -4107,7 +4108,7 @@
 		position: relative;
 	}
 	#recolor.banner.half{
-		background-color: #ff7043 !important;
+		background-color: #fc8a67 !important;
 	}
 	#recolor2.banner.half{
 		background-color: #21cfc1 !important;
